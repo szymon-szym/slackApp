@@ -1,5 +1,5 @@
 describe('First test', () => {
     it('sends a hello msg', () => {
-        expect(true).toBe(true)
+        expect(true).toBe(false)
     })
 })
