@@ -1,0 +1,1 @@
+![Test CI](https://github.com/szymon-szym/slackApp/workflows/Test%20CI/badge.svg)
