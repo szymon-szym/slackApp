@@ -37,7 +37,7 @@ app.action('button_click', ({ body, ack, say }) => {
 
 (async () => {
     await app.start(process.env.PORT || 3000)
-    console.log('app is running')
+    console.log('app is running ...')
 })()
 
 module.exports = app
