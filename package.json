@@ -1,0 +1,19 @@
+{
+  "name": "slack-app",
+  "version": "0.1.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/bolt": "^1.5.0"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "jest": "^25.1.0"
+  }
+}
